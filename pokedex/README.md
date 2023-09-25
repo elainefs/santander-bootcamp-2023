@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 
+<h2 align="center">
+  <a href="https://elainefs.github.io/santander-bootcamp-2023/pokedex" target="_blank">Ver Projeto</a>
+</h2>
+
+
 ## 📘 Sobre
 Pokedex é um projeto que consome a API PokeAPI e mostra os Pokemons e suas informações.
 
