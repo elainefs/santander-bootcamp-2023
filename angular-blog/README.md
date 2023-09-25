@@ -4,10 +4,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white">
 </div>
 
-<h2 align="center">
-  <a href="https://github.com/elainefs/santander-bootcamp-2023/tree/main/angular-blog" target="_blank">Ver Projeto</a>  
-</h2>
-
 Criação de uma aplicação de blog funcional com componentes inteligentes utilizando o framework Angular.
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.2.
