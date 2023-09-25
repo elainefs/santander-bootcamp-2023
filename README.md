@@ -8,6 +8,8 @@ A trilha FullStack Java+Angular conta com conteúdos do básico ao avançado, au
 
 [Pokedex](https://elainefs.github.io/santander-bootcamp-2023/pokedex)
 
+[Web Components em JS Vanilla](https://elainefs.github.io/santander-bootcamp-2023/componentes-js-vanilla)
+
 ## 📄 Licença
 
 O conteúdo desse repositório está sob a licença do MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
