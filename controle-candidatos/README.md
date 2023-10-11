@@ -1,4 +1,5 @@
-# Desafio 
+# Desafio <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=35px />
+
 Criar um pequeno sistema para validação de processo seletivo
 
 ## Estrutura de pastas
