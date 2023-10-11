@@ -14,6 +14,10 @@ A trilha FullStack Java+Angular conta com conteúdos do básico ao avançado, au
 
 [Playstation Store](https://github.com/elainefs/santander-bootcamp-2023/tree/main/playstation-store)
 
+[Seleção de Candidatos](https://github.com/elainefs/santander-bootcamp-2023/tree/main/controle-candidatos)
+
+[Controle de Fluxo](https://github.com/elainefs/santander-bootcamp-2023/tree/main/DesafioControleFluxo)
+
 ## 📄 Licença
 
 O conteúdo desse repositório está sob a licença do MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
