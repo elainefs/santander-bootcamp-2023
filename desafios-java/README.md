@@ -1,18 +1,15 @@
-## Getting Started
+# Desafios <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=35px />
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Abstração no Domínio Bancário
+- [Abrindo Contas](https://github.com/elainefs/santander-bootcamp-2023/blob/main/desafios-java/src/ContaBancaria.java)
+- [Herança Bancária](https://github.com/elainefs/santander-bootcamp-2023/blob/main/desafios-java/src/ContaBancariaHeranca.java)
+- [Cofres Seguros](https://github.com/elainefs/santander-bootcamp-2023/blob/main/desafios-java/src/CofresSeguros.java)
+- [Reunião de Acionistas](https://github.com/elainefs/santander-bootcamp-2023/blob/main/desafios-java/src/ReuniaoAcionista.java)
+- [A Última Transação](https://github.com/elainefs/santander-bootcamp-2023/blob/main/desafios-java/src/UtimaTransacao.java)
 
-## Folder Structure
+## 📄 Licença
+Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs)
