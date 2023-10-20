@@ -69,15 +69,17 @@ classDiagram
 - [x] Deleção de usuários
 
 ### Rodar a aplicação localmente
-1 - Clonar o repositório `git clone https://github.com/elainefs/santander-bootcamp-2023/restful-api.git`
+1 - Clonar o repositório `git clone https://github.com/elainefs/santander-bootcamp-2023.git`
 
-2 - Rodar `gradle install` para instalar as dependências
+2 - Entrar na pasta do projeto `cd restful-api`
 
-3 - Rodar `gradle bootRun` para subir a aplicação
+3 - Rodar `gradle install` para instalar as dependências
 
-4 - A aplicação estará disponível na porta `localhost:8080`
+4 - Rodar `gradle bootRun` para subir a aplicação
 
-5 - Use um Cliente de requisições HTTP para fazer os testes 
+5 - A aplicação estará disponível na porta `localhost:8080`
+
+6 - Use um Cliente de requisições HTTP para fazer os testes 
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
