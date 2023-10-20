@@ -22,6 +22,12 @@ A trilha FullStack Java+Angular conta com conteúdos do básico ao avançado, au
 
 [Desafios Java (Abstração no Domínio Bancário)](https://github.com/elainefs/santander-bootcamp-2023/tree/main/desafios-java)
 
+[Padrões de Projeto em Java](https://github.com/elainefs/santander-bootcamp-2023/tree/main/padroes-projetos-java)
+
+[Padrões de Projeto em Java com Spring](https://github.com/elainefs/santander-bootcamp-2023/tree/main/lab-padroes-projeto-spring-main)
+
+[RESTful API Bancária](https://github.com/elainefs/santander-bootcamp-2023/tree/main/restful-api)
+
 ## 📄 Licença
 
 O conteúdo desse repositório está sob a licença do MIT. Consulte o arquivo [LICENSE](/LICENSE) para obter mais detalhes.
